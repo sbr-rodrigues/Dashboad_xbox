@@ -76,7 +76,7 @@ Boas práticas de visualização de informações.
 Adicione aqui uma imagem do dashboard final:
 
 Markdown
-![Dashboard Xbox](imagens/dashboard.png)
+![Dashboard Xbox](dashboard.png)
 👩‍💻 Autora
 
 Sabrina Barbosa Rodrigues
